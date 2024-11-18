@@ -58,7 +58,7 @@ const Header = () => {
         className="self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white"
       >
         <span className="px-2 py-1 font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 dark:from-sky-blue dark:via-turquoise dark:to-sunflower">
-          Seven&apos;s
+          Khasanboy&apos;s
         </span>
         Blog
       </Link>

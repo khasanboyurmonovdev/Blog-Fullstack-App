@@ -23,10 +23,10 @@ const Home = () => {
         </h1>
         <p className="text-gray-600 dark:text-gray-400 text-sm sm:text-base lg:text-lg">
           Discover a world of insightful articles, inspiring stories, and
-          practical advice at Seven's Blog. Our blog is dedicated to bringing
-          you the latest in Web Development, Software Development, Cloud
-          Computing, and DevOps, with content crafted to inform, entertain, and
-          engage.
+          practical advice at Khasanboy's Blog. Our blog is dedicated to
+          bringing you the latest in Web Development, Software Development,
+          Cloud Computing, and DevOps, with content crafted to inform,
+          entertain, and engage.
         </p>
         <Link
           to="/search"

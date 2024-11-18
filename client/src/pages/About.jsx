@@ -9,11 +9,11 @@ const About = () => {
         </h1>
         <div className="text-lg text-gray-700 dark:text-gray-300 space-y-6">
           <p>
-            Welcome to Seven's Blog! At Seven's Blog, we’re passionate about
-            exploring and sharing the vast world of technology. Our blog is
-            dedicated to providing insightful, practical, and engaging content
-            across a range of topics including frontend development, backend
-            development, DevOps, cloud computing, and more.
+            Welcome to Khasanboy's Blog! At Khasanboy's Blog, we’re passionate
+            about exploring and sharing the vast world of technology. Our blog
+            is dedicated to providing insightful, practical, and engaging
+            content across a range of topics including frontend development,
+            backend development, DevOps, cloud computing, and more.
           </p>
 
           <p>
@@ -36,10 +36,10 @@ const About = () => {
           <p>
             Whether you’re a seasoned professional or just starting out, Seven's
             Blog aims to be your go-to resource for learning, inspiration, and
-            growth in the tech industry. 
+            growth in the tech industry.
           </p>
           <p className="text-center text-gray-500 dark:text-gray-400">
-            Thank you for visiting Seven's Blog!
+            Thank you for visiting Khasanboy's Blog!
           </p>
         </div>
       </div>
